@@ -1,0 +1,17 @@
+C:\Users\aleja\Source\Repos\Vender\bin\Debug\net6.0-windows\Vender.exe
+C:\Users\aleja\Source\Repos\Vender\bin\Debug\net6.0-windows\Vender.deps.json
+C:\Users\aleja\Source\Repos\Vender\bin\Debug\net6.0-windows\Vender.runtimeconfig.json
+C:\Users\aleja\Source\Repos\Vender\bin\Debug\net6.0-windows\Vender.dll
+C:\Users\aleja\Source\Repos\Vender\bin\Debug\net6.0-windows\Vender.pdb
+C:\Users\aleja\Source\Repos\Vender\obj\Debug\net6.0-windows\Vender.csproj.AssemblyReference.cache
+C:\Users\aleja\Source\Repos\Vender\obj\Debug\net6.0-windows\Vender.Form1.resources
+C:\Users\aleja\Source\Repos\Vender\obj\Debug\net6.0-windows\Vender.csproj.GenerateResource.cache
+C:\Users\aleja\Source\Repos\Vender\obj\Debug\net6.0-windows\Vender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Source\Repos\Vender\obj\Debug\net6.0-windows\Vender.AssemblyInfoInputs.cache
+C:\Users\aleja\Source\Repos\Vender\obj\Debug\net6.0-windows\Vender.AssemblyInfo.cs
+C:\Users\aleja\Source\Repos\Vender\obj\Debug\net6.0-windows\Vender.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Source\Repos\Vender\obj\Debug\net6.0-windows\Vender.dll
+C:\Users\aleja\Source\Repos\Vender\obj\Debug\net6.0-windows\refint\Vender.dll
+C:\Users\aleja\Source\Repos\Vender\obj\Debug\net6.0-windows\Vender.pdb
+C:\Users\aleja\Source\Repos\Vender\obj\Debug\net6.0-windows\Vender.genruntimeconfig.cache
+C:\Users\aleja\Source\Repos\Vender\obj\Debug\net6.0-windows\ref\Vender.dll
